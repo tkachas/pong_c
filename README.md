@@ -1,1 +1,1 @@
-# pong_c
+# Pong game implementation on C
